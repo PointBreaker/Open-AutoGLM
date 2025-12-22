@@ -332,8 +332,8 @@ def check_model_api(base_url: str, model_name: str, api_key: str = "EMPTY", api_
                 print(f"   Error: Model '{model_name}' not found")
                 print("   Solution:")
                 print("     1. Check available Gemini models:")
-                print("       - gemini-1.5-flash")
-                print("       - gemini-1.5-pro")
+                print("       - gemini-2.5-flash")
+                print("       - gemini-2.5-pro")
                 print("     2. Verify the model name spelling")
             else:
                 print(f"   Error: {error_msg}")

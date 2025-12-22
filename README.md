@@ -255,7 +255,7 @@ python main.py --base-url https://open.bigmodel.cn/api/paas/v4 --model "autoglm-
 python main.py --base-url https://api-inference.modelscope.cn/v1 --model "ZhipuAI/AutoGLM-Phone-9B" --apikey "your-modelscope-api-key" "打开美团搜索附近的火锅店"
 
 # 使用 Google Gemini
-python main.py --api-type gemini --model gemini-1.5-flash --apikey "your-gemini-api-key" "打开美团搜索附近的火锅店"
+python main.py --api-type gemini --model gemini-2.5-flash --apikey "your-gemini-api-key" "打开美团搜索附近的火锅店"
 ```
 
 #### 选项 B: 自行部署模型

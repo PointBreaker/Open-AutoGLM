@@ -188,7 +188,7 @@ If you don't want to deploy the model yourself, you can use the following third-
 
 - Documentation: https://ai.google.dev/docs
 - `--api-type`: `gemini`
-- `--model`: `gemini-1.5-flash` or `gemini-1.5-pro`
+- `--model`: `gemini-2.5-flash` or `gemini-2.5-pro`
 - `--apikey`: Apply for your API key at Google AI Studio
 
 Example usage with third-party services:
